@@ -23,7 +23,7 @@
 ### [ChatAI]
 > ChatAI's response goes here
 
-> Example
+### Example:
 ```markdown
 # Asynchronous JavaScript
 
@@ -31,8 +31,7 @@
 **Keywords:** async, javascript, programming
 
 ### thureindev
-> You are my programming mentor. 
-> Explain asynchronous javascript with real code scenarios. 
+> You are my programming mentor. Explain asynchronous javascript with real code scenarios. 
 > Also define asynchronous and synchronous in programming. 
 
 ### ChatGPT
