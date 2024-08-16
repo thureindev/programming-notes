@@ -6,11 +6,13 @@
 - Following is the example file structure. Feel free to adjust the template and structure based on your needs.
 
 # [Title of the Conversation]
-> [!NOTE] Title should be same as filename. filename should replace whitespaces with dash '-'
+> [!NOTE]
+> Title should be same as filename. filename should replace whitespaces with dash '-'
 
 **Date:** YYYY-MM-DD  
 **Keywords:** keyword1, keyword2, keyword3
-> [!NOTE] Having formated date and keywords can be a great help when you search topics in previous conversations.
+> [!NOTE]
+> Having formated date and keywords can be a great help when you search topics in previous conversations.
 
 ## [Conversation Keyword]
 > keyword that defines the conversation topic, notes, headline, etc.
@@ -81,16 +83,20 @@ my-study-tracking-repo/
 
 ## 3.2 - **Documenting Conversations:**
    - **Export Conversations:** Export your ChatGPT conversations to text files. You can copy and paste them into Markdown files in your repository.
-   > [!TIP] Consider using a script to automate the export, copy and paste onto markdown actions.
+   > [!TIP] 
+   > Consider using a script to automate the export, copy and paste onto markdown actions.
    - **Label Conversations:** Reference the Markdown template to structure each file. Label questions with `### User` and answers with `### ChatGPT` or any label choice of yours.
    - **Add Metadata:** Include date and keywords at the beginning of each file for easier searching and indexing.
-   > [!TIP] Having formated date and keywords can be a great help when you search topics in previous conversations.
+   > [!TIP] 
+   > Having formated date and keywords can be a great help when you search topics in previous conversations.
 
 ## 3.3 - **Maintaining the Repository:**
    - **Daily Updates:** Regularly add new conversation logs. Create new files in the appropriate directories and follow the Markdown template.
-   > [!NOTE] Consider using a script or creating a GUI for this action.
+   > [!NOTE] 
+   > Consider using a script or creating a GUI for this action.
    - **Collaborating:** If working with others, make sure to pull changes frequently and push your updates to avoid conflicts. Communicate with collaborators about file naming conventions and structure.
-   > [!NOTE] Again, a GUI app would help a lot. Yet, I haven't started working on it. 
+   > [!NOTE] 
+   > Again, a GUI app would help a lot. Yet, I haven't started working on it. 
 
 ## 3.4 - **Using Text Editor (VSCode):**
    - **Editing Markdown Files:** Open and edit Markdown files in VSCode (as it is my favourite text editor). You can preview the Markdown files by using the VSCode built-in preview feature.
@@ -103,6 +109,8 @@ my-study-tracking-repo/
 ## 3.6 - **Search and Navigation:**
    - **Directory Structure:** Organize files into directories and subdirectories based on categories. Use descriptive filenames for easy navigation.
    - **Search:** Use GitHub's built-in search functionality to find specific topics or keywords within your repository.
+
+---
 
 ***Feel free to adjust the template and structure based on your needs. If you want to collaborate more features on this project, just let me know!***
 
