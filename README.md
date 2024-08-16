@@ -5,15 +5,12 @@
 
 Hey there! This repo is a personal project where I document my learning journey using AI. I’ve created a template to help you track your studies and conversations with AI, just like I do. It’s a great way to keep your questions and answers organized and make the most out of your AI interactions.
 
-> [!CAUTION]
+> [!IMPORTANT]
 > While AI is super advanced, it’s not infallible.
 > AI is a tool to assist you, not a substitute for human judgment.
-
-> [!IMPORTANT]
 > Always use your own logical thinking and brainstorming skills alongside AI’s help. 
 
 ***Happy learning!***
----
 
 ---
 # Disclaimer
