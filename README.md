@@ -12,6 +12,8 @@ Hey there! This repo is a personal project where I document my learning journey 
 
 ***Happy learning!***
 
+Open [guide.md](./guide.md#1-document-template) for usage instructions.
+
 ---
 # Disclaimer
 > [!CAUTION]
