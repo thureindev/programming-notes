@@ -1,15 +1,15 @@
 > [!IMPORTANT]
 > Please make sure to review the [Disclaimer](#disclaimer) section at the end of this document for important information about the use of this repository.
 
-# Welcome to my Study Tracking Repo!
+# Welcome to my programming notes!
 
-This repository is a personal project designed to track my learning journey across various topics. I found that relying on paper notebooks and browser bookmarks for keeping references to learning resources was not very effective. I also wanted to maintain a version history for my resources. So, I decided to use Git and Markdown for this purpose.
+This repository is a personal project designed to track my learning journey in CS and programming. I found that relying on paper notebooks and browser bookmarks for keeping references to learning resources was not very effective. I also wanted to maintain a version history for my resources. So, I decided to use Git and Markdown for this purpose.
 
 This repository provides ready-made templates for note-taking in Markdown documents, keeping URLs to multimedia resources, and tracking conversations.
 
 I frequently use ChatGPT to explore programming patterns, database architectures, the inner workings of the GCC compiler, and more. However, I can be forgetful, and managing multiple ChatGPT tabs can become cumbersome. So, I decided to document those conversations as notes as well.
 
-That’s why I’ve created a [template](./template-guide.md#1-document-template) to track conversations with AI using this repository. It’s an excellent way to keep your questions and answers organized and make the most out of your AI interactions.
+That’s why I’ve created [study-tracker repo](https://github.com/thureindev/study-tracker) to create templates to track conversations with AI using this repository. It’s an excellent way to keep your questions and answers organized and make the most out of your AI interactions.
 
 Feel free to explore and adapt these resources to suit your own learning needs!
 
