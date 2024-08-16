@@ -29,9 +29,7 @@ template-learn-web-dev/
 
 ## Naming System
 
-In this template, I used kebab case for file and folder names.
-
-Each of these conventions has its own use cases depending on the context and the programming language. Feel free to adjust it to your needs.
+In this template, I used *'kebab-case for'* file and folder names. Each of these conventions has its own use cases depending on the context and the programming language. Feel free to adjust it to your needs.
 
 ### Common naming conventions
 

@@ -23,15 +23,28 @@
 ### [ChatAI]
 > ChatAI's response goes here
 
-## [Another Conversation]
-> If necessary, another conversation follows here.
+> Example
+```markdown
+# Asynchronous JavaScript
 
-> Include code snippets, diagrams, or other media as folowing: 
+**Date:** 2024-03-16  
+**Keywords:** async, javascript, programming
 
-- **Code Snippet:**
-  ```python
-  # Example code here
-  ```
+### thureindev
+> You are my programming mentor. 
+> Explain asynchronous javascript with real code scenarios. 
+> Also define asynchronous and synchronous in programming. 
+
+### ChatGPT
+> [Response goes here]
+
+### thureindev
+> What is the difference between using promises and async-await. 
+> Aside from readability are there any technical differences?
+
+### ChatGPT
+> [Response goes here]
+```
 
 ---
 
